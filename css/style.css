@@ -1,1 +1,11 @@
-body { background: pink; }
+body { background: pink; 
+
+}
+
+h1{
+	position: relative;
+	margin: 30px 50px;
+}
+
+p{ position: relative;
+	margin: auto;}
