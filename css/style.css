@@ -1,11 +1,27 @@
-body { background: pink; 
+body { background: #e6f5ef; 
 
 }
 
 h1{
+	color: #42383e;
 	position: relative;
-	margin: 30px 50px;
+	margin-top: 50px;
+	margin-left: 40vw;
+	font-size: 70px;
 }
 
 p{ position: relative;
-	margin: auto;}
+	margin: auto;
+}
+
+.desc{
+	margin-left: 350px;
+	color: #61515b;
+}
+
+#projects{
+	color: #42383e;
+	position: relative;
+	margin: 40px auto 20px 50px;
+
+}
