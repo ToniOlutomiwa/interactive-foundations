@@ -2,7 +2,10 @@ body {
 	background: #f9fae6;
 }
 
-
+a {
+    color: #4e616c;
+    text-decoration-color: #4e616c;
+}
 
 .sun {
 	position: fixed;
