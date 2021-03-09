@@ -1,0 +1,21 @@
+<svg width="90" height="160" viewBox="0 0 90 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="60" width="20" height="20" fill="#4E616C"/>
+<path d="M40 80C54.8 80 59.5 66.6667 60 60L40 60L40 80Z" fill="#4E616C"/>
+<rect x="20" y="40" width="20" height="20" transform="rotate(180 20 40)" fill="#4E616C"/>
+<rect x="20" y="60" width="20" height="20" transform="rotate(180 20 60)" fill="#4E616C"/>
+<path d="M40 60C24.4 60 20.1667 46.6667 20 40L20 60L40 60Z" fill="#4E616C"/>
+<path d="M-1.98695e-06 60C-5.16608e-07 74.8 13.3333 79.5 20 80L20 60L-1.98695e-06 60Z" fill="#4E616C"/>
+<path d="M20 140C20 125.2 6.66667 120.5 -1.90735e-06 120L-2.78158e-06 140L20 140Z" fill="#4E616C"/>
+<path d="M-8.74228e-07 140C-2.27299e-07 154.8 13.3333 159.5 20 160L20 140L-8.74228e-07 140Z" fill="#4E616C"/>
+<path d="M40 160C24.4 160 20.1667 146.667 20 140L20 160H40Z" fill="#4E616C"/>
+<rect x="70" y="20" width="20" height="20" fill="#4E616C"/>
+<rect x="70" y="40" width="20" height="20" fill="#4E616C"/>
+<rect x="70" y="80" width="20" height="20" fill="#4E616C"/>
+<rect x="70" y="60" width="20" height="20" fill="#4E616C"/>
+<rect x="70" y="120" width="20" height="20" fill="#4E616C"/>
+<rect x="70" y="100" width="20" height="20" fill="#4E616C"/>
+<path d="M70 140C70 155.6 56.6667 159.833 50 160L70 160L70 140Z" fill="#4E616C"/>
+<path d="M90 140L70 160V140H90Z" fill="#4E616C"/>
+<path d="M90 20C90 5.2 76.6667 0.499999 70 -8.74228e-07L70 20L90 20Z" fill="#4E616C"/>
+<path d="M0 20L20 0L20 20L0 20Z" fill="#4E616C"/>
+</svg>

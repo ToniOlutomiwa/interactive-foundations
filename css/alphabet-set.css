@@ -1,0 +1,168 @@
+body {
+	background: #f9fae6;
+}
+
+
+
+.sun {
+	position: fixed;
+	width: 600px;
+	height: 600px;
+	top: 0px;
+	background-color: #e2e0b0;
+	border-radius: 300px;
+	transition-property: color;
+}
+
+.sun:hover{
+	background-color: #fefff8;
+	transform: scale(0.9);
+}
+
+
+.alphabets {
+	position: absolute;
+    background: transparent;
+}
+
+
+.letter {
+    position: relative;
+    margin: 100px;
+    top: 60px;
+}
+
+#a {
+    left: 50vw;
+}
+
+#b {
+ 
+    left: 70vw;
+
+}
+
+#c {
+    left: 50vw;
+}
+
+#d {
+    left: 70vw;
+}
+
+#e {
+
+    left: 50vw;
+}
+
+#f {
+ 
+    left: 70vw;
+}
+
+#g {
+   
+    left: 50vw;
+}
+
+#h {
+ 
+    left: 70vw;
+}
+
+#i {
+
+    left: 50vw;
+}
+
+#j {
+ 
+    left: 70vw;
+}
+
+#k {
+
+    left: 50vw;
+}
+
+#l {
+  
+    left: 70vw;
+}
+
+#m {
+   
+    left: 50vw;
+}
+
+#n {
+   
+    left: 70vw;
+}
+
+#o {
+   
+    left: 50vw;
+}
+
+#p {
+
+    left: 70vw;
+}
+
+#q {
+   
+    left: 50vw;
+}
+
+#r {
+  
+    left: 70vw;
+}
+
+#s {
+  
+    left: 50vw;
+}
+
+#t {
+   
+    left: 70vw;
+}
+
+#u {
+   
+    left: 50vw;
+}
+
+#v {
+   
+    left: 70vw;
+}
+
+#w {
+  
+    left: 50vw;
+}
+
+#x {
+  
+    left: 70vw;
+}
+
+#y {
+  
+    left: 50vw;
+}
+
+#z {
+  
+    left: 70vw;
+}
+
+.number {
+	position: relative;
+	display: inline-block;
+    margin: 80px;
+    top: 60px;
+}

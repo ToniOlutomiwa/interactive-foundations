@@ -1,0 +1,15 @@
+<svg width="100" height="120" viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="40" y="40" width="20" height="20" fill="#4E616C"/>
+<path d="M80 40L60 60L60 40L80 40Z" fill="#4E616C"/>
+<path d="M80 100C80 115.6 66.6667 119.833 60 120L80 120L80 100Z" fill="#4E616C"/>
+<path d="M100 100C100 85.2 86.6667 80.5 80 80L80 100L100 100Z" fill="#4E616C"/>
+<path d="M100 100L80 120V100H100Z" fill="#4E616C"/>
+<rect x="20" y="40" width="20" height="20" fill="#4E616C"/>
+<rect x="20" y="20" width="20" height="20" fill="#4E616C"/>
+<rect x="20" y="80" width="20" height="20" fill="#4E616C"/>
+<rect x="20" y="60" width="20" height="20" fill="#4E616C"/>
+<path d="M20 100C20 114.8 33.3333 119.5 40 120L40 100L20 100Z" fill="#4E616C"/>
+<path d="M40 20C40 5.2 26.6667 0.499999 20 -8.74228e-07L20 20L40 20Z" fill="#4E616C"/>
+<path d="M60 120C44.4 120 40.1667 106.667 40 100V120H60Z" fill="#4E616C"/>
+<path d="M0 60L20 40L20 60L0 60Z" fill="#4E616C"/>
+</svg>
