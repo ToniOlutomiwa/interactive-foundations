@@ -1,0 +1,50 @@
+body { 
+	background: white; 
+}
+
+h1 {
+	display: inline-block;
+	position: fixed;
+	color: #6da191;
+	margin-left: 50px;
+	font-family: korolev-rounded,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 80px;
+}
+
+.icons{
+	display: grid;
+	align-items: center;
+	position: relative;
+	left: calc(50vw - 200px);
+}
+
+#notification{
+	/*position: absolute;*/
+	align-items: center;
+	top: 170px;
+	left: 18vw;
+}
+
+#fullscreen{
+	/*position: absolute;*/
+	align-items: center;
+	top: 80px;
+	left: 32vw;
+}
+
+#search{
+	/*position: absolute;*/
+	align-items: center;
+	top: 1000px;
+	left: 18vw;
+}
+
+#play{
+
+}
+
+audio{
+	display: none;
+}
