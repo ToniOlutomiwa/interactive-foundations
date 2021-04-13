@@ -5,7 +5,7 @@ body {
 h1 {
 	display: inline-block;
 	position: fixed;
-	color: #6da191;
+	color: #3e4d4b;
 	margin-left: 50px;
 	font-family: korolev-rounded,sans-serif;
     font-weight: 500;
@@ -13,33 +13,58 @@ h1 {
     font-size: 80px;
 }
 
-.icons{
-	display: grid;
-	align-items: center;
-	position: relative;
-	left: calc(50vw - 200px);
+body {
+	width: 100%;
+	height: 100%;
+	animation-name: backgroundColor;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
 }
 
-#notification{
-	/*position: absolute;*/
+@keyframes backgroundColor {
+	0% {background-color: #ccffe6;}
+	25% {background-color: #ccfff4;}
+	50% {background-color:  #ccfeff;}
+	75% {background-color: #ccf4ff;}
+	100% {background-color: #ccf0ff;}
+}
+
+/*svg {
+	background: #bbedb4;
+}
+
+svg:hover {
+	fill: pink;
+}*/
+
+.icons{
+	background: transparent;
+	display: grid;
+	align-items: center;
+	position: absolute;
+	left: calc(50vw - 200px);
+	cursor: pointer;
+}
+
+/*#notification{
 	align-items: center;
 	top: 170px;
 	left: 18vw;
-}
+}*/
 
-#fullscreen{
-	/*position: absolute;*/
+
+/*#fullscreen{
 	align-items: center;
 	top: 80px;
 	left: 32vw;
 }
 
 #search{
-	/*position: absolute;*/
 	align-items: center;
 	top: 1000px;
 	left: 18vw;
-}
+}*/
 
 #play{
 
