@@ -1,0 +1,239 @@
+body {
+	background: #f1faf8
+}
+
+h1{
+	position: relative;
+	margin: 50px;
+	color: #425559;
+	font-family: parisplus-std,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size: 80px;
+}
+
+.center-circle {
+	/*display: inline-block;*/
+	position: relative;
+	top: 78px;
+	/*left: calc(50vw - 150px);*/
+	left: 570px;
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	background: #6da4b0;
+	box-shadow: 10px 10px 8px #d6d6d6;
+}
+
+#text1 {
+	position: absolute;
+	top: 370px;
+	left: 600px;
+	color: white;
+	font-family: parisplus-clair,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+	font-size: 35px;
+}
+
+.path1 {
+	position: relative;
+	width: 30px;
+	height: 250px;
+	background: grey; 
+	left: 705px;
+	top: 77px;
+    background: #a8bab6;
+    box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path2 {
+	position: relative;
+	width: 600px;
+	height: 30px;
+	background: grey; 
+	left: 705px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path3 {
+	position: relative;
+	width: 30px;
+	height: 200px;
+	background: grey; 
+	left: 1275px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path4 {
+	position: relative;
+	width: 1000px;
+	height: 30px;
+	background: grey; 
+	left: 305px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path5 {
+	position: relative;
+	width: 30px;
+	height: 200px;
+	background: grey; 
+	left: 305px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path6 {
+	position: relative;
+	width: 1000px;
+	height: 30px;
+	background: grey; 
+	left: 305px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path7 {
+	position: relative;
+	width: 30px;
+	height: 200px;
+	background: grey; 
+	left: 1275px;
+	top: 77px;
+    background: #a8bab6;
+    box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path8 {
+	position: relative;
+	width: 1000px;
+	height: 30px;
+	background: grey; 
+	left: 305px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path9 {
+	position: relative;
+	width: 30px;
+	height: 200px;
+	background: grey; 
+	left: 305px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path10 {
+	position: relative;
+	width: 600px;
+	height: 30px;
+	background: grey; 
+	left: 305px;
+	top: 77px;
+	background: #a8bab6;
+	box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+.path11 {
+	position: relative;
+	width: 30px;
+	height: 650px;
+	background: grey; 
+	left: 875px;
+	top: 77px;
+    background: #a8bab6;
+    box-shadow: 5px 5px 8px #d6d6d6;
+}
+
+#image1 {
+	position: absolute;
+	top: 860px;
+	left: 50px;
+	transform: scale(0.6);
+}
+
+#interview {
+	position: absolute;
+	top: 900px;
+	left: 155px;
+	font-family: parisplus-clair,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+	font-size: 25px;
+	cursor: pointer;
+}
+
+a:link {
+    text-decoration: none;
+    color: #425559;
+}
+
+a:hover {
+	color: #A1C1DD;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+#image2 {
+	position: absolute;
+	top: 950px;
+	left: 600px;
+	transform: scale(0.35);
+}
+
+#image3 {
+	position: absolute;
+	top: 1300px;
+	left: -300px;
+	transform: scale(0.3);
+}
+
+#africa-comicade {
+	cursor: pointer;
+}
+
+#career-games {
+	cursor: pointer;
+}
+
+#canvasTitle{
+	text-align: center;
+	font-family: parisplus-clair,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+	color: #425559;
+}
+
+#canvas {
+	position: relative;
+	border: 2px #d6d6d6;
+	background: white;
+	padding: 0;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+	display: block;
+}
+
+#instructions {
+	position: absolute;
+	top: 2420px;
+	left: 500px;
+	font-family: parisplus-clair,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+	color: #425559;
+}

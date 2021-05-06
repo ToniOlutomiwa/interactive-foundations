@@ -1,0 +1,43 @@
+body {
+	background: #f1faf8;
+	text-align: left;
+	width: 600px;
+	margin-left: calc(50vw - 300px);
+	font-family: parisplus-clair,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h1 {
+	font-family: parisplus-clair,sans-serif;
+    font-weight: 1800;
+    font-style: bold;
+    color: #425559;
+
+}
+
+.back {
+	position: absolute;
+	left: 50px;
+	top: 40px;
+	font-family: parisplus-clair,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A1C1DD;
+}
+
+.question {
+	color: #539dbd;
+}
+
+.answer {
+	color: #425559;
+}
