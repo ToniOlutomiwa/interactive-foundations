@@ -3,25 +3,69 @@ body { background: #e6f5ef;
 }
 
 h1{
-	color: #42383e;
 	position: relative;
-	margin-top: 50px;
-	margin-left: 40vw;
+    left: 575px;
+	font-family: gratitude-script-pro,sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #425559;
 	font-size: 70px;
 }
 
-p{ position: relative;
-	margin: auto;
+p{ 
+	position: relative;
+	left: 200px;
+	font-family: scrivano,serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+pre {
+	position: relative;
+	left: 500px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #5aa397;
+}
+
+a:visited {
+	color: #287064;
 }
 
 .desc{
-	margin-left: 450px;
-	color: #61515b;
+	margin-left: 194px;
+
+	color: #425559;
+}
+
+h3 {
+	margin-top: 100px;
+	margin-left: 620px;
+	margin-bottom: 0px;
+	font-family: gratitude-script-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #425559;
 }
 
 #projects{
-	color: #42383e;
+	color: #425559;
 	position: relative;
-	margin: 40px auto 20px 50px;
+	font-family: scrivano,serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
 
+ul {
+	list-style-type: none;
+	margin-right: 115px;
+	text-align: center;
 }
