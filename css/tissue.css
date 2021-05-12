@@ -42,3 +42,7 @@ body{
     border-radius: 50px 50px 20px 20px;
 
 }
+
+.tissue:hover {
+    top: 30px;
+}
